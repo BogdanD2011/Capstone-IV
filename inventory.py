@@ -191,6 +191,8 @@ def menu():
 # if no file is present return error and offer the option to open original inventory or leave the program
 # take as parameter name of the fle to open - this permit futer adjustment in the futer for other options 
 def read_shoes_data(text_file):
+    dir = os.getcwd()
+    os.chdir(dir)
     fo = None
     try:
         inventory_content = []
