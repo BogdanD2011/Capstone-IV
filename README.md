@@ -10,11 +10,16 @@ To run this project you will have to install:
 Both thext file need to be located in the same directory as inventory.py and directory need to be open 
 
 Screenshots of the project running:  
-![image](https://user-images.githubusercontent.com/121569894/210135279-e60f242c-eb3a-4970-b09b-fbc19459042a.png)
-![image](https://user-images.githubusercontent.com/121569894/210135405-061630be-5099-4ecc-8d91-41c52b70599d.png)
-![image](https://user-images.githubusercontent.com/121569894/210135414-4011be76-4134-4115-b897-1941af2e7f14.png)
-![image](https://user-images.githubusercontent.com/121569894/210135437-27fba4a6-5157-43c1-b1c0-76b3b2f65095.png)
-![image](https://user-images.githubusercontent.com/121569894/210135446-ad68e90a-4840-48e3-b17a-4d749b51acc4.png)
+![image](https://user-images.githubusercontent.com/121569894/210135611-1072f2b4-9f7e-44bc-a474-8884391022f5.png)
+![image](https://user-images.githubusercontent.com/121569894/210135614-f2c46c71-cbec-4081-98d6-b5f5236c4eff.png)
+![image](https://user-images.githubusercontent.com/121569894/210135621-55f00a0f-47b9-4ce0-ac59-4f41b732de2e.png)
+![image](https://user-images.githubusercontent.com/121569894/210135626-625a602f-6428-4cea-b3f2-ba2a3fe0b9c9.png)
+![image](https://user-images.githubusercontent.com/121569894/210135630-c73c6b06-5937-4b87-9cc1-cd26c97e7b56.png)
+![image](https://user-images.githubusercontent.com/121569894/210135639-45840428-9ec2-46a2-b6a5-7f4ffb75a2a1.png)
+![image](https://user-images.githubusercontent.com/121569894/210135644-93383af9-235b-4eeb-9747-e6f3f1fd0ec3.png)
+
+
+Author Bogdan Dragan 
 
 
 
